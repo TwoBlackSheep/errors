@@ -1,6 +1,6 @@
 <?php
 
-namespace Collective\Errors;
+namespace TwoBlackSheep\Errors;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,21 +1,21 @@
 {
-    "name": "laravelcollective/errors",
+    "name": "TwoBlackSheep/errors",
     "description": "Error pages for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
+    "homepage": "https://TwoBlackSheep.co.za/etrrors",
     "support": {
-        "issues": "https://github.com/LaravelCollective/errors/issues",
-        "source": "https://github.com/LaravelCollective/errors"
+        "issues": "https://github.com/TwoBlackSheep/errors/issues",
+        "source": "https://github.com/TwoBlackSheep/errors"
     },
     "authors": [
         {
-            "name": "Matt Lantz",
-            "email": "matt@laravelcollective.com"
+            "name": "Lindsay Condon",
+            "email": "lindsay@twoblacksheep.co.za"
         }
     ],
     "require": {
         "php": ">=7.1.3",
-        "laravel/framework": "^6.0|^7.0"
+        "laravel/framework": "^6.0|^7.0|^8.0"
     },
     "autoload": {
         "psr-4": {
@@ -28,7 +28,7 @@
         },
         "laravel": {
             "providers": [
-                "Collective\\Errors\\ErrorsServiceProvider"
+                "TwoBlackSheep\\Errors\\ErrorsServiceProvider"
             ]
         }
     },
