@@ -2,7 +2,7 @@
     "name": "TwoBlackSheep/errors",
     "description": "Error pages for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://TwoBlackSheep.co.za/etrrors",
+    "homepage": "https://TwoBlackSheep.co.za/errors",
     "support": {
         "issues": "https://github.com/TwoBlackSheep/errors/issues",
         "source": "https://github.com/TwoBlackSheep/errors"
@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0.2-dev"
         },
         "laravel": {
             "providers": [
